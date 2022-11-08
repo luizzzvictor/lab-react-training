@@ -1,0 +1,9 @@
+.boxColorContainer {
+    margin: 10px;
+    font-size: larger;
+    border:2px solid black;    
+    height: 10em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

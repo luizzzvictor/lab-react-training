@@ -1,0 +1,21 @@
+.idCard {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  /* width: fit-content; */
+  height: 10%;
+  margin: 10px;
+  border: 1px solid black;
+}
+
+.containerImg {
+  /* margin: auto; */
+  width: fit-content;
+  text-align: center;
+  margin-left: 15px;
+}
+
+.infos > p {
+  margin-left: 15px;
+  text-align: left;
+}
